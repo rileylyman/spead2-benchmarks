@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Keep IP adresses, etc, out of public repo
+ip_info.txt
+*.txt
